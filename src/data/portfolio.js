@@ -10,7 +10,7 @@ export default [
        title: 'Lost and found frontend',
        imgUrl: 'assets/lost1.jpg',
        stack: ['Vite', 'Tailwind', 'React'],
-       link: 'https://team-lost-and-found-frontend-4486.vercel.app/',
+       link: 'https://bett-lost-and-found-frontend.vercel.app/',
    },
 
     {
