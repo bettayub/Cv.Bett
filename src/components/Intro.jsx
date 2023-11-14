@@ -18,9 +18,9 @@ function Intro() {
         also a strategic mindset, leveraging software engineering as a powerful
         tool to drive business growth and create transformative solutions. I am
         actively seeking opportunities to contribute to and drive innovation in
-        software engineering. For further engagement, please visit <br /> {' '}
+        software engineering. For further engagement, please visit <br /> {' '} 
         <a
-        href="https://bettayub.github.io/my-personal-website/"
+        href="https://bettayub.github.io/my-personal-website/"   
         target="_blank"
         className="text-cyan-600 hover:underline
       underline-offset-2 decoration-2
