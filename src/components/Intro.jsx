@@ -1,4 +1,5 @@
-import React from 'react';
+//  intro component
+import React from 'react'; 
 
 function Intro() {
    return (
